@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "785767673122",
+    "project_id": "linkat-center",
+    "storage_bucket": "linkat-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785767673122:android:8fa28dd0d558ec752e497b",
+        "android_client_info": {
+          "package_name": "com.linkat_center_dashboard.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyDzdW-FkWeQoXOj4Ya4Lr1PoYydjnXfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785767673122:android:fb063344709f92492e497b",
+        "android_client_info": {
+          "package_name": "com.linkat_center_dashboard.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyDzdW-FkWeQoXOj4Ya4Lr1PoYydjnXfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
